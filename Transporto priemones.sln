@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransportoPriemones.EntryPoint", "Project12.EntryPoint\TransportoPriemones.EntryPoint.csproj", "{46BDBA0F-8185-4FD0-ACF2-94723F6304EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransportoPriemones.Core", "Project12.Core\TransportoPriemones.Core.csproj", "{2DB09881-7709-4B53-9395-5CBFDE4E2EB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46BDBA0F-8185-4FD0-ACF2-94723F6304EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BDBA0F-8185-4FD0-ACF2-94723F6304EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BDBA0F-8185-4FD0-ACF2-94723F6304EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BDBA0F-8185-4FD0-ACF2-94723F6304EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB09881-7709-4B53-9395-5CBFDE4E2EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB09881-7709-4B53-9395-5CBFDE4E2EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB09881-7709-4B53-9395-5CBFDE4E2EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB09881-7709-4B53-9395-5CBFDE4E2EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F801659C-C462-426F-A244-9C4106475D1A}
+	EndGlobalSection
+EndGlobal
